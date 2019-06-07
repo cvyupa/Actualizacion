@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "==========================="
-echo " Su sistema se actualizara "
+echo " ----Instacion Fortnite--- "
 echo "==========================="
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get update && sudo apt-get upgrade
